@@ -1,5 +1,5 @@
 # hello_git
 克隆git的远程库
 这是在githuxiaxiaxiaixxaixiaxiaxixai添加一个文件.
-这是一个记住我文件
-在dev分支添加一条记录
+这是一个记住我文件,这是一个冲突文件
+在dev分支添加一条记录.........继续练习不知道什么鬼
